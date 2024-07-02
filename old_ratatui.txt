@@ -14,6 +14,7 @@
 0xMalaparte/Tokio_vs_Actix_Actors
 0xNathanW/bitter
 0xcacti/term-chat
+0xhappyboy/blockchain-terminal
 0xi4o/zilean
 0xicl33n/obsidian
 0xphen/wyre
@@ -259,6 +260,7 @@ DebuggerAndrzej/Grunt
 DefinitelyNotSimon13/project-tui
 DeflateAwning/baud-boss
 DegenerateCoder/RusTunes
+DelgadoElias/nvim-rv
 DenysShch/rust-todo-app
 DeusProx/git-branch-cleaner
 DevGuyOps/k8logs
@@ -376,7 +378,6 @@ GiancarlosIO/ratatui-counter-app
 GiancarlosIO/ratatui-json-editor
 GigaDAO/openbook
 Girgetto/gitclean
-GitAniket98/Foundry-Projects
 Gnarlsley/ratatui_test1_0
 Gnarlsley/ratatui_test1_1
 Gnarlsley/weather_util_test_1_1
@@ -662,6 +663,7 @@ NIWC-Intern-Team/GUSV-NET
 Nandinski/tic-tac-toe
 Narayanbhat166/blazer
 Narfinger/TheoryGrabber
+NateSeymour/pz-server-manager
 NeViRAIDE/neviraller
 Neptune-Crypto/neptune-core
 NerosOW/text-generation-inference
@@ -740,6 +742,7 @@ Pingid/rizzup
 Pingvin0/requeth
 PitchBlackNights/rriter
 PitchBlackNights/rust-tui-playground
+Pixel-Panda/MonoLithium
 PixelDoted/licenseme
 Podskio/famished-ferris
 PolyMeilex/vago-cli
@@ -856,6 +859,7 @@ SleepySwords/do_todo
 SofiiaVarich/konnektoren
 Solarcode-org/Centauri-Code-Editor
 SoloJessy/todo-rs
+SorellaLabs/foundry
 Souheab/rstuifm
 Soybean44/irc-client
 SpaceNerde/orion
@@ -962,6 +966,7 @@ TortitasT/taskt
 ToruNiina/tuiwave
 ToxicakerJL/tmb
 TreeGardenDev/tree-friend-tui
+TriedAngle/Kette
 TritonVM/triton-tui
 Troels51/dtui
 Tronikelis/npkill-rs
@@ -1007,6 +1012,7 @@ Vinermy/astray
 Vinermy/chip8
 VirgileHenry/ima
 VlaDexa/burn-efficient-kan
+VladGTT/unet-practice
 VladimiroPaschali/ebpf-experiments
 Vonr/breweri
 Vonr/parui
@@ -1033,6 +1039,7 @@ Xithrius/weather-tui
 Xobtah/ratatui-crossterm-template
 YJDoc2/LogRocket-Blog-Code
 YS-L/csvlens
+YS-L/flamelens
 YT-er/tsvlook
 YarnSpinnerTool/YarnSpinner-Rust
 YatesRocks/Asclepius
@@ -1291,6 +1298,7 @@ boardswarm/boardswarm
 bodenfisch/yummy
 boldandbrad/euchre-tui
 bolshoytoster/twitch-tui-client
+bones-ai/rust-snake-ai-ratatui
 boozec/sigma
 bormanjo/hacker-news-rs
 boundless-forest/polkadot-cli
@@ -1637,6 +1645,7 @@ fedeya/tuapi
 fejbl2/clihoot
 felix-andreas/gpt-burn
 fengyang-nju/ProgrammingInRust
+ferracat/Rusting
 ferranbt/suavencer
 ffindelsberger/socketpioneer
 fiadliel/fiadtui
@@ -1738,6 +1747,7 @@ gollth/tui-bars
 gonzalesMK/StackOverflowRs
 goofyblci/congenial-funicular
 gopiio/vector-freebsd
+gosharub10/json-editor
 gosub-browser/dive
 gosub-browser/poc-taffy
 graelo/pumas
@@ -1784,6 +1794,7 @@ hauntedhost/boo-rs
 hawkw/eclssd
 hayden-donnelly/health-tracker
 haydenflinner/wd
+hayesHowYaDoin/pokedex
 hcmgr/cli_chat
 hdhoang/vector
 hds/hds_console
@@ -1831,7 +1842,6 @@ iCraft85/FXplorer
 iKineticate/LinkEcho
 iamdb/hifi.rs
 iceseyes/worm
-icsboyx/botox_async
 icsboyx/rustbotx
 icub3d/intcode.rs
 id-2/vector
@@ -2116,6 +2126,7 @@ kriskw1999/ratatui-snake
 kristoferssolo/traxor
 krolyxon/rmptui
 krovuxdev/Simple-TUI-Counter
+krypt0nn/hyperborea
 ksk001100/bsky_tui
 ksk001100/picterm
 ksk001100/tui-template
@@ -2155,6 +2166,7 @@ leftis/kexec
 lengyijun/ratatui_demo
 leohscl/sboard
 lesleyrs/tts-tui
+letsrust/ecosystem
 levinion/slime
 lielfr/activity-monitor-rs
 lilhammer111/cycle-gan-burn
@@ -2405,6 +2417,7 @@ niekvandepas/citeseer
 nigelloppie/typing_game
 niklastreml/gitlab-tui
 nimaaskarian/c3
+nimaaskarian/jou
 nine-point-eight-p/x86-qemu-fuzzer
 nineonine/gcviz
 nionata/statsd-monitor
@@ -2451,6 +2464,7 @@ oacs/yatap
 oakw/PL_hw7_task_manager
 oalders/dependaboard
 oberien/binmerge
+obliviouslabs/oblivSparseMPT
 olaitanade/RustBattleshipGame
 olidacombe/tuiscope
 oligamiq/crypto-rng-verification
@@ -2480,7 +2494,6 @@ orogenicbelt/hiview
 osmak1234/pomodoro
 osmak1234/quicktick-tty
 otcova/miniterms
-otechdo/ness
 otechdo/oh
 otim-xyz/reth-7702-sandbox
 ovro-lwa/spectrum-tui
@@ -2746,6 +2759,7 @@ sarvex/nushell
 sarvex/text-generation-inference
 sashnex1/player
 sasq64/rustplay
+satwik-kambham/rift
 saubuny/tuisic
 sayTae/todo_list
 sayanarijit/tui-input
@@ -3046,7 +3060,7 @@ ungaro/foundry-swift
 ungaro/tui-checkbox
 ungerpeter/cillio
 unkn0wn01/TypingWizard
-unrenamed/ssh-chat
+unrenamed/chatd
 unrenormalizable/nanoGPT.rs
 untitled-/tuiwindow
 usagi-coffee/abl-kit
@@ -3175,6 +3189,7 @@ x52dev/protobug
 xN4P4LM-org/tools
 xRetart/quick-menu
 xalbd/tuitask
+xebia-functional/quartiles-solver
 xgillard/couic
 xiaochen0517/learn_advance_rs
 xiaogenban1993/xiaogenban1993.github.io

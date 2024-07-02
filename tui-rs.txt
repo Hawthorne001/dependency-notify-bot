@@ -5013,6 +5013,7 @@ haskell-monad/gitoxide
 hatchetxuexi/bottom
 hatoo/console
 hatoo/oha
+haukot/aports
 hauni97/diem
 haunt98/gitui
 havok187/bandwhich
@@ -7375,6 +7376,7 @@ pelenthium/aptos-core
 pembletonj/tookish
 pengg/veloren
 penghero/gping
+penncycount/aports
 penumbra23/peerko
 pepoviola/triage-tracker
 percent20/humility
