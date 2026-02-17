@@ -20,7 +20,6 @@
 0xGingi/phantom
 0xKilty/filler
 0xKitsune/foundry
-0xMRTT/nixpkgs
 0xPoe/console
 0xSovereign/windows-update-manager
 0xTomoyo/foundry
