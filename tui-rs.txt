@@ -3251,7 +3251,6 @@ zeankundev/BHCLI
 zebp/bottom
 zeenix/gimoji
 zemja/pipe-dream
-zen1tho/archinstall
 zenialexandre/file-explorer-emulator
 zerfix/music_player
 zeroknots/permissionless-rs
