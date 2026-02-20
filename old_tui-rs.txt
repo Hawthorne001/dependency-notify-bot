@@ -35,7 +35,6 @@
 0xnullifier/AptWeaver
 0xquantech/aptos-rust-tutorial1
 0xvv/foundry
-123p10/slack-tui
 1337CyberSecurity/tari
 149segolte/carton
 16arpi/meteo-tui
@@ -835,7 +834,6 @@ Sushisource/hubtain
 SwannHERRERA/la-patate-chaude
 Sxmon17/IronInbox
 Sygmei/nushell
-Synergyst/RustTesting
 Szymongib/bookmark
 TBS1996/speki
 TH3BAT/Blockchaininfo
@@ -2059,7 +2057,6 @@ ksk001100/tui-template
 ktfleming/rhc
 ktheindifferent/Sam
 ktt-ol/ktt-shopsystem
-kubczakn/rustless
 kubouch/nushell
 kulee10/ALXR_Testbed
 kunalabs-io/sui-client-gen
