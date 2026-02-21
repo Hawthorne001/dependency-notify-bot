@@ -1956,7 +1956,6 @@ jrnxf/thokr
 jsladerman/diem
 jsteeleiv/dirt
 jszwedko/vector
-jthornber/device-mapper-test-suite-2
 jthornber/dm-unit
 jthornber/thin-provisioning-tools
 jtickle/learn-rust-cards
@@ -2342,7 +2341,6 @@ nagorniy95/sui
 nakji-network/sui-connector
 nalevi/fodmap-recipe-helper
 nankeen/gitui
-naps62/ninetails
 narayan-krishna/doo
 narendasan/rtop
 nasifimtiazohi/diem
