@@ -142,7 +142,6 @@ Arm-Kaz/Sui34
 Art-Arm/Sui
 Ashwin-1709/fuzzy-ls
 AsyncEgg/primorial_of_a_number
-AsyncEgg/tui_demos_and_tests
 AsyncEgg/wordle_clone
 AtharvPorate1/rust-billing
 AudranDoublet/rtx_opr
@@ -174,7 +173,6 @@ Blupegasus0/pets
 Blupegasus0/rust-cli-example
 Boda805/foundry
 Bombadad/rtodo2
-BoolPurist/tui_block_builder
 Boskeroni/sposu
 BoynChan/yo-rust-ruta
 BrookJeynes/checklist
@@ -2596,7 +2594,6 @@ raviqqe/sqlx
 ray33ee/Project-Midas
 rbtms/Gameboy-Emulator
 rctcwyvrn/woodpecker-v2
-rdbo/typemaster-cli
 rdemz/Aurorae-genesis
 rdkcentral/ieee1905-rs
 readysettech/metrics
