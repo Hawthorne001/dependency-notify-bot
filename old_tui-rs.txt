@@ -1083,7 +1083,6 @@ anthonyvd/yagbe
 antonguzun/pytest-explorer
 antoninhrlt/haussmann
 antonlogvinenko/bgvocab
-antonxy/visp
 anussel5559/redox-commander
 anza-xyz/move
 anzal1/Computer-Networks-Mini-Projects
@@ -3077,7 +3076,6 @@ ulysseB/telamon
 unattended-backpack/petros
 univerz/foundry
 unixsuperhero/xt
-upitroma/rustPractice
 uqiotstudio/mmwave-rewrite
 urantialife/diem
 urmyfaith/gping
