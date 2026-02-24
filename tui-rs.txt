@@ -3182,6 +3182,7 @@ wolimst/nushell
 woochang2/integ
 workofimagination/ARM
 wose/satnogs-monitor
+wrwg/aptos-core
 wrwg/move-lang
 wuku11/111
 wwj-git-rgb/gping
