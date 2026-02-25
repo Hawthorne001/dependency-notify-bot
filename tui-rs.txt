@@ -1764,7 +1764,6 @@ higersky/bandwhich
 himanshurajora/experiments
 himanshurajora/process_killer
 himanshurajora/various_rust_tests
-hirosystems/chainhook
 hirosystems/orchestra-archive
 hisbaan/kaboom
 hjfitz/http-perf-test
