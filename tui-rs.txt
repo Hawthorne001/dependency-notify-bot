@@ -47,6 +47,7 @@
 2dav/mvtime
 2nd-Layer/oura
 371tti/rwe
+485angelprocess/t800-emulator
 4Dmu/conrads_game_of_life_rust
 56quarters/mtop
 6block/zkwork_aleo_worker
@@ -82,10 +83,12 @@ AidenGariepy89/Battleship
 Ajalsr/rust-todo-list
 AkashSingh123/FastDDSModifications
 AkashSingh123/dual_relay
+AkhilKamath/rust_stuff
 AkkuRam/chess
 Aldrin-Shanty/Password_Manager
 AleksanderEvensen/cfd
 Alemadtr-group/aptos-core
+Alex-Grimes/dashoxide
 Alex-Grimes/ifrit
 Alex-Grimes/sabikani
 Alex222222222222/rgames
@@ -216,6 +219,7 @@ ClementTsang/bottom
 CleverCloud/vector
 CnegAsuy/wid
 Code-Militia/jirust
+CodeMan62/leni-deni
 Coder-Spirit/versioner
 CohleRustW/tracker
 Cokemonkey11/thw-subscriber
@@ -379,6 +383,7 @@ Gumichocopengin8/diem
 Gyarbij/spotify-tui
 GyroZepelix/namecrypt
 GyroZepelix/tui-learning
+H-Chris233/Terminal-Pixel-Dungeon
 H1d3r/rustpad
 Hacker-007/envious
 HakeemsGit/RustyLines
@@ -553,6 +558,7 @@ MR2011/wowAddonManager
 Macchina-CLI/macchina
 MaciejWas/algonds
 Macmachi/kaspanode-performance
+MadebyDaris/Realtime-Stock-Data-Rust
 MahmoudZamani/onefuzz
 MalteT/2a-emulator
 MandavkarPranjal/lit
@@ -821,6 +827,7 @@ StephanMalan/type_defender
 SuleymanSuleymanzade/Items_tracker
 Sunrisies/v2025
 Super-JK/radiorecord-tui
+SusankShakya/Gods-Creaton
 Sushisource/hubtain
 SwannHERRERA/la-patate-chaude
 Sxmon17/IronInbox
@@ -935,6 +942,7 @@ X3n0m0rph59/precached
 X4BNet/vector
 XB32Z/termviz
 XMPPwocky/genoasm
+Xelezard/btel_table
 Xiaobin0860/eap
 Xithrius/twitch-tui
 XoL1507/Xpi
@@ -1022,6 +1030,7 @@ akperrine/rust_todo
 aktowns/nixpkgs
 alan-turing-institute/clamms
 albreax/rust-text-editor
+aldur/sqlx
 alearcy/rust-tui
 alemidev/scope-tui
 alepez/mqtt-analyzer
@@ -1173,6 +1182,7 @@ babak-kh/restopher
 babak-kh/tui-tree
 babariviere/nixpkgs
 babinc/amqp-client-cli
+bahdotsh/wrkflw
 baijiahei888/reth-dis
 baklazan/vxdiff
 bakoorahnin/gobang
@@ -1304,6 +1314,7 @@ chirag-bgh/eye-of-reth
 chrisvander/ai-2048
 chungquantin/edma
 chvck/couchbase-shell
+ciathefed/lud
 cisko3000/fair-share-meters
 cityzenK/tui_TODO
 cjab/libeq
@@ -1331,6 +1342,7 @@ code-lily/learning-tui
 codervijo/qvault
 cognitedata/sqlx
 coin1111/ollibra
+coinlist/hancock
 colessar/tetris
 collinvandyck/rust-learning
 compyHaX/rlog
@@ -1765,6 +1777,7 @@ holly-hacker/td
 hpmor-game/rust-dlg
 hpsh0rk/rust-training
 hreeder/rtt-tui
+hruday-HMS69/cryptowatch
 huangbqsky/rust-stock
 hublot-io/esl-services-backend
 hughdazz/sqlx
@@ -1895,6 +1908,7 @@ jocades/rit
 jodal/slagskip
 joe-corcoran/task-flow
 joefiorini/jj-gh-pr
+joefrost01/ecs_ai_compliance
 joelybahh/rust-micro-cron
 joelynch/tetrs
 johannes67890/Sorting-algorithm
@@ -1946,6 +1960,7 @@ jtrv/osintui
 juanknebel/cala-bot
 jugeeya/UltimateTrainingModpack
 juicie-brucie/brucenix
+julianschuler/chords
 junghyun397/VirtualController
 junkil-park/move
 jurgden/rustchain_mvp
@@ -2044,6 +2059,7 @@ kunalabs-io/sui-client-gen
 kurisuke/navicon
 kuschovandrey/sui
 kuy/decom
+kuzlik340/RUSTGUARDIAN
 kwyckmans/shred
 kyleslugg/flaneur-abm
 kyrosle/bt-tui
@@ -2216,6 +2232,8 @@ mgramigna/scramble-rs
 mhoff12358/dungeon_stranding
 mhoff12358/dungeon_stranding_native
 michael-wit/hear-them-tweet
+michaelcolletti/rtop
+michal-jewczuk/cli-ltr
 michel-slm/nushell
 micmarty/miro-rs
 micnekr/filephile
@@ -2498,6 +2516,7 @@ pinecone-io/sqlx-fork
 ping-jz/rust_practice
 piniom/record-catalog
 pinkforest/fluvio
+piyushS3V3N/Pokidex
 pizzamig/aide
 pjjw/nixpkgs
 pk244/octo-trem-animado
@@ -2574,6 +2593,7 @@ raviqqe/sqlx
 ray33ee/Project-Midas
 rbtms/Gameboy-Emulator
 rctcwyvrn/woodpecker-v2
+rdemz/Aurorae-genesis
 rdkcentral/ieee1905-rs
 readysettech/metrics
 red-dal/rusty_ladder
@@ -2664,6 +2684,7 @@ sadovsf/RadioLog
 saevarb/prism
 sagansfault/playr
 sahibzada-allahyar/DemocratizingAI-Rust-OS-and-Lang
+saidutt46/domain-check
 sajjadium/ctf-archives
 saksaha/saksaha
 saksham-tomer/vim_terminal
@@ -2759,6 +2780,7 @@ sgilfeather/CyberGrape
 sglee487/gstream_prac
 shady-d3v/todo_rust
 shakahl/vector
+shaneikennedy/ktui
 shaokun11/just-test-run
 shaokun11/move
 shaokun11/move-me2
@@ -3018,6 +3040,7 @@ tramhao/termusic
 transparencies/fluvio
 trevor-coleman/diffding
 trigg/discern
+trstruth/lope
 trustless-engineering/fluvio
 tshepang/vector
 tsirysndr/crosup
