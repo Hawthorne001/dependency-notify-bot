@@ -331,7 +331,6 @@ Fineas/-mama-
 Fineas/sundbox
 Finradon/lcd
 Fishy-Fishes/too_many_emails
-Fixxative/rover_drive
 Flaise/sclan
 Flintblocks/reth-server
 FloppyDisck/GPTerm
@@ -1105,7 +1104,6 @@ argam-134/Aleo
 argam-134/Aptos
 argam-134/Sui
 argumentcomputer/zk-light-clients
-ariellehamn/MystenLabs-sui
 arkCyber/IMCP
 arkark/git-hist
 arkbig/mntime
@@ -2516,7 +2514,6 @@ pr-c/finance
 pr0cf5/move-bytecode-llvm-compiler
 pr0me/SAFIREFUZZ
 prasha-au/rusty-poker
-preampinbut/kubernetes-object-generator
 primetype/asmtp
 privacy-ethereum/maze
 privacy-ethereum/snark-verifier
