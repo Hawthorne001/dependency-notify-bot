@@ -1801,7 +1801,6 @@ initia-labs/aptos-core
 initia-labs/move
 initia-labs/movevm
 ink-splatters/hoard
-input-output-hk/ce-netsim
 insou22/flymark
 inuraorg/inura
 invalidcharactersnotavailable/ai-local
