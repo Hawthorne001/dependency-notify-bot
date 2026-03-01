@@ -1854,6 +1854,7 @@ jdvalencit/system-monitor
 jean-santos/atuin
 jeffdn/enigma
 jenggo/macchina
+jepeake/mSight
 jernejmarcic/RustyPlayer
 jespermunkeby/patch
 jesses-code-adventures/j-rss-tui
@@ -2464,7 +2465,6 @@ pbackz/fdispatcher
 pbellens/lodder
 pbriggs28/termcrypt
 pea040119/Rdbg
-peake00/mSight
 pecigonzalo/vector
 pegov/qbtui
 penumbra23/peerko
