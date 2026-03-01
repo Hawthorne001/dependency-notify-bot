@@ -3096,6 +3096,7 @@ vschwaberow/bottom
 vstepanyuk/kinopub-downloader
 vulns-are-features-too/bookshelf
 vusec/hw-fuzzing-driver
+vusec/libaflgo
 vxpm/abduction
 w-schoolwork/MedievalSQL
 w4tson/rust-terminal-fun
